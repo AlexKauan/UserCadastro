@@ -1,2 +1,0 @@
-# UserApp
-# UserCadastro
