@@ -1,4 +1,4 @@
-package com.example.userapp.util;
+package com.arquitetura_de_software.userapp.util;
 
 import org.mindrot.jbcrypt.BCrypt;
 

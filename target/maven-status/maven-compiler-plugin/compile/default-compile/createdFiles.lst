@@ -1,2 +1,9 @@
-com\example\userapp\model\ModelUser.class
-com\example\userapp\util\PasswordUtil.class
+com/arquitetura_de_software/userapp/repository/UserRepository.class
+com/arquitetura_de_software/userapp/dto/UserResponseDTO.class
+com/arquitetura_de_software/userapp/util/PasswordUtil.class
+com/arquitetura_de_software/userapp/service/UserService.class
+com/arquitetura_de_software/userapp/config/OpenApiConfig.class
+com/arquitetura_de_software/userapp/model/ModelUser.class
+com/arquitetura_de_software/userapp/controller/UserController.class
+com/arquitetura_de_software/userapp/UserAppApplication.class
+com/arquitetura_de_software/userapp/dto/UserRequestDTO.class

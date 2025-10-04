@@ -1,2 +1,9 @@
-C:\Users\Baki\Documents\Ufersa\ArqSoftware\TrabalhoUnicade1\userapp\src\main\java\com\example\userapp\model\ModelUser.java
-C:\Users\Baki\Documents\Ufersa\ArqSoftware\TrabalhoUnicade1\userapp\src\main\java\com\example\userapp\util\PasswordUtil.java
+/home/lidiana/Documents/arquiteturaDeSoftware/code/UserCadastro/src/main/java/com/arquitetura_de_software/userapp/UserAppApplication.java
+/home/lidiana/Documents/arquiteturaDeSoftware/code/UserCadastro/src/main/java/com/arquitetura_de_software/userapp/util/PasswordUtil.java
+/home/lidiana/Documents/arquiteturaDeSoftware/code/UserCadastro/src/main/java/com/arquitetura_de_software/userapp/model/ModelUser.java
+/home/lidiana/Documents/arquiteturaDeSoftware/code/UserCadastro/src/main/java/com/arquitetura_de_software/userapp/controller/UserController.java
+/home/lidiana/Documents/arquiteturaDeSoftware/code/UserCadastro/src/main/java/com/arquitetura_de_software/userapp/service/UserService.java
+/home/lidiana/Documents/arquiteturaDeSoftware/code/UserCadastro/src/main/java/com/arquitetura_de_software/userapp/config/OpenApiConfig.java
+/home/lidiana/Documents/arquiteturaDeSoftware/code/UserCadastro/src/main/java/com/arquitetura_de_software/userapp/dto/UserRequestDTO.java
+/home/lidiana/Documents/arquiteturaDeSoftware/code/UserCadastro/src/main/java/com/arquitetura_de_software/userapp/repository/UserRepository.java
+/home/lidiana/Documents/arquiteturaDeSoftware/code/UserCadastro/src/main/java/com/arquitetura_de_software/userapp/dto/UserResponseDTO.java
