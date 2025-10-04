@@ -1,0 +1,13 @@
+services:
+  userapp:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      # Monta o diretório para persistir o banco SQLite
+      - ./data:/app/data
+    environment:
+      # Configura a URL do banco para usar o diretório montado
+      - SPRING_DATASOURCE_URL=jdbc:sqlite:/app/data/userapp.db
+    restart: unless-stopped
+    container_name: userapp-container
